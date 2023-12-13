@@ -1,2 +1,2 @@
 # SimpleOS
-creating a Operating System, and it will be set up in a basic foundation
+creating a Operating System in a most basic foundation.
